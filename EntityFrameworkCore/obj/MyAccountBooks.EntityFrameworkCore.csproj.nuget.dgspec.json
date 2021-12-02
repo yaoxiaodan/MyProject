@@ -1,0 +1,134 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\4.练习代码\\YXD.MyAccountBooks\\YXD.MyAccountBooks\\EntityFrameworkCore\\MyAccountBooks.EntityFrameworkCore.csproj": {}
+  },
+  "projects": {
+    "D:\\4.练习代码\\YXD.MyAccountBooks\\YXD.MyAccountBooks\\EntityFrameworkCore\\MyAccountBooks.EntityFrameworkCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\4.练习代码\\YXD.MyAccountBooks\\YXD.MyAccountBooks\\EntityFrameworkCore\\MyAccountBooks.EntityFrameworkCore.csproj",
+        "projectName": "MyAccountBooks.EntityFrameworkCore",
+        "projectPath": "D:\\4.练习代码\\YXD.MyAccountBooks\\YXD.MyAccountBooks\\EntityFrameworkCore\\MyAccountBooks.EntityFrameworkCore.csproj",
+        "packagesPath": "C:\\Users\\yaodan\\.nuget\\packages\\",
+        "outputPath": "D:\\4.练习代码\\YXD.MyAccountBooks\\YXD.MyAccountBooks\\EntityFrameworkCore\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\yaodan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://proget.hkitcloud.net/nuget/HKInternalNugetPackages/": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\4.练习代码\\YXD.MyAccountBooks\\YXD.MyAccountBooks\\MyAccountBooks.Core\\MyAccountBooks.Core.csproj": {
+                "projectPath": "D:\\4.练习代码\\YXD.MyAccountBooks\\YXD.MyAccountBooks\\MyAccountBooks.Core\\MyAccountBooks.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\4.练习代码\\YXD.MyAccountBooks\\YXD.MyAccountBooks\\MyAccountBooks.Core\\MyAccountBooks.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\4.练习代码\\YXD.MyAccountBooks\\YXD.MyAccountBooks\\MyAccountBooks.Core\\MyAccountBooks.Core.csproj",
+        "projectName": "MyAccountBooks.Core",
+        "projectPath": "D:\\4.练习代码\\YXD.MyAccountBooks\\YXD.MyAccountBooks\\MyAccountBooks.Core\\MyAccountBooks.Core.csproj",
+        "packagesPath": "C:\\Users\\yaodan\\.nuget\\packages\\",
+        "outputPath": "D:\\4.练习代码\\YXD.MyAccountBooks\\YXD.MyAccountBooks\\MyAccountBooks.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\yaodan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://proget.hkitcloud.net/nuget/HKInternalNugetPackages/": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[3.2.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

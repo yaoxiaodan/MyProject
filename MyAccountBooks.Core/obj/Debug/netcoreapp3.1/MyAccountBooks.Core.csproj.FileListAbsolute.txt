@@ -1,0 +1,9 @@
+D:\4.练习代码\YXD.MyAccountBooks\YXD.MyAccountBooks\MyAccountBooks.Core\bin\Debug\netcoreapp3.1\MyAccountBooks.Core.deps.json
+D:\4.练习代码\YXD.MyAccountBooks\YXD.MyAccountBooks\MyAccountBooks.Core\bin\Debug\netcoreapp3.1\MyAccountBooks.Core.dll
+D:\4.练习代码\YXD.MyAccountBooks\YXD.MyAccountBooks\MyAccountBooks.Core\bin\Debug\netcoreapp3.1\MyAccountBooks.Core.pdb
+D:\4.练习代码\YXD.MyAccountBooks\YXD.MyAccountBooks\MyAccountBooks.Core\obj\Debug\netcoreapp3.1\MyAccountBooks.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\4.练习代码\YXD.MyAccountBooks\YXD.MyAccountBooks\MyAccountBooks.Core\obj\Debug\netcoreapp3.1\MyAccountBooks.Core.AssemblyInfoInputs.cache
+D:\4.练习代码\YXD.MyAccountBooks\YXD.MyAccountBooks\MyAccountBooks.Core\obj\Debug\netcoreapp3.1\MyAccountBooks.Core.AssemblyInfo.cs
+D:\4.练习代码\YXD.MyAccountBooks\YXD.MyAccountBooks\MyAccountBooks.Core\obj\Debug\netcoreapp3.1\MyAccountBooks.Core.csproj.CoreCompileInputs.cache
+D:\4.练习代码\YXD.MyAccountBooks\YXD.MyAccountBooks\MyAccountBooks.Core\obj\Debug\netcoreapp3.1\MyAccountBooks.Core.dll
+D:\4.练习代码\YXD.MyAccountBooks\YXD.MyAccountBooks\MyAccountBooks.Core\obj\Debug\netcoreapp3.1\MyAccountBooks.Core.pdb
