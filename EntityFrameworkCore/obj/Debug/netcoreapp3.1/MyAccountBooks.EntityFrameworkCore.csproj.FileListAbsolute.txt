@@ -11,3 +11,6 @@ D:\4.练习代码\YXD.MyAccountBooks\YXD.MyAccountBooks\EntityFrameworkCore\obj\
 D:\4.练习代码\YXD.MyAccountBooks\YXD.MyAccountBooks\EntityFrameworkCore\obj\Debug\netcoreapp3.1\MyAccountBooks.EntityFrameworkCore.csproj.CopyComplete
 D:\4.练习代码\YXD.MyAccountBooks\YXD.MyAccountBooks\EntityFrameworkCore\obj\Debug\netcoreapp3.1\MyAccountBooks.EntityFrameworkCore.dll
 D:\4.练习代码\YXD.MyAccountBooks\YXD.MyAccountBooks\EntityFrameworkCore\obj\Debug\netcoreapp3.1\MyAccountBooks.EntityFrameworkCore.pdb
+D:\4.练习代码\YXD.MyAccountBooks\YXD.MyAccountBooks\EntityFrameworkCore\bin\Debug\netcoreapp3.1\MyAccountBooks.EntityFrameworkCore.runtimeconfig.json
+D:\4.练习代码\YXD.MyAccountBooks\YXD.MyAccountBooks\EntityFrameworkCore\bin\Debug\netcoreapp3.1\MyAccountBooks.EntityFrameworkCore.runtimeconfig.dev.json
+D:\4.练习代码\YXD.MyAccountBooks\YXD.MyAccountBooks\EntityFrameworkCore\obj\Debug\netcoreapp3.1\MyAccountBooks.EntityFrameworkCore.genruntimeconfig.cache

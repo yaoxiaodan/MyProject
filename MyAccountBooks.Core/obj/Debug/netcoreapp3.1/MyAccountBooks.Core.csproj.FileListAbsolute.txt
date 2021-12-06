@@ -7,3 +7,7 @@ D:\4.练习代码\YXD.MyAccountBooks\YXD.MyAccountBooks\MyAccountBooks.Core\obj\
 D:\4.练习代码\YXD.MyAccountBooks\YXD.MyAccountBooks\MyAccountBooks.Core\obj\Debug\netcoreapp3.1\MyAccountBooks.Core.csproj.CoreCompileInputs.cache
 D:\4.练习代码\YXD.MyAccountBooks\YXD.MyAccountBooks\MyAccountBooks.Core\obj\Debug\netcoreapp3.1\MyAccountBooks.Core.dll
 D:\4.练习代码\YXD.MyAccountBooks\YXD.MyAccountBooks\MyAccountBooks.Core\obj\Debug\netcoreapp3.1\MyAccountBooks.Core.pdb
+D:\4.练习代码\YXD.MyAccountBooks\YXD.MyAccountBooks\MyAccountBooks.Core\bin\Debug\netcoreapp3.1\MyAccountBooks.Core.runtimeconfig.json
+D:\4.练习代码\YXD.MyAccountBooks\YXD.MyAccountBooks\MyAccountBooks.Core\bin\Debug\netcoreapp3.1\MyAccountBooks.Core.runtimeconfig.dev.json
+D:\4.练习代码\YXD.MyAccountBooks\YXD.MyAccountBooks\MyAccountBooks.Core\obj\Debug\netcoreapp3.1\MyAccountBooks.Core.genruntimeconfig.cache
+D:\4.练习代码\YXD.MyAccountBooks\YXD.MyAccountBooks\MyAccountBooks.Core\obj\Debug\netcoreapp3.1\MyAccountBooks.Core.csproj.AssemblyReference.cache

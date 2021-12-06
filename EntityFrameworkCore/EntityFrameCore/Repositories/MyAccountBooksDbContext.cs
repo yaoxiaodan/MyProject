@@ -6,25 +6,38 @@ namespace MyAccountBooks.EntityFrameworkCore.EntityFrameCore.Repositories
     public class MyAccountBooksDbContext : DbContext
     {
 
+        public MyAccountBooksDbContext(DbContextOptions<MyAccountBooksDbContext> options)
+          : base(options)
+        { }
+
+
+        /// <summary>
+        /// 数据库连接地址配置
+        /// </summary>
+        /// <param name="optionsBuilder"></param>
+        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        {
+            var onnectionString = "Data Source = 42.193.49.185; Port = 10010; Initial Catalog = my_account_books; User Id = root; Password = 158922123a";
+            optionsBuilder.UseMySql(onnectionString);
+            //可以使用配置地址
+        }
+
         #region  实体
         public DbSet<User> CrmDownpayment { get; set; }
 
         #endregion
 
-        public MyAccountBooksDbContext(DbContextOptions<MyAccountBooksDbContext> options) :base(options) { 
-        
-        }
-
         #region  重写
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             base.OnModelCreating(modelBuilder);
-           
+
             OracelConverter(modelBuilder);
-          
+
         }
 
         #endregion 
+
         #region > 表名与列名转换 <
         private void OracelConverter(ModelBuilder modelBuilder)
         {
